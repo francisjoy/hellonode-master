@@ -1,6 +1,6 @@
 app:
-    name: HelloNodeOp
-    code: hellonode
+    name: hellonode-master
+    code: hellonode-master
     notify: appzdev@cloudbourne.co
 
 build:
